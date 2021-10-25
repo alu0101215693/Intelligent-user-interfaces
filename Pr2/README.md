@@ -28,3 +28,14 @@
    <br />
    ![ejercicio7](./img/ejercicio7.gif)
 
+### **Segundo ejercicio**
+
+En este segundo ejercicio trata de desarrollar una escena, donde se ubica un cubo en un plan, que con el [script](./controller.cs) que se incorpora en este repositorio, conseguimos que el cubo se mueva. En el siguiente gif podemos ver una simulación de lo desarrollado:
+![ejercicio2](./img/ejercicio8.gif)
+
+
+### **Tercer ejercicio**
+
+
+--------------------
+Esta práctica ha sido realizada por Nerea Rodríguez Hernández 💻, alu0101215693@ull.edu.es, alumna de Ingenería Informática en la Universidad de La Laguna para la asignatura de Interfaces Inteligentes📚.
