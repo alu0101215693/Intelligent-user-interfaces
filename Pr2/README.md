@@ -31,7 +31,7 @@
 ### **Segundo ejercicio**
 
 En este segundo ejercicio trata de desarrollar una escena, donde se ubica un cubo en un plan, que con el [script](./scripts/controller.cs) que se incorpora en este repositorio, conseguimos que el cubo se mueva. En el siguiente gif podemos ver una simulación de lo desarrollado:
-![ejercicio2](./img/ejercicio8.gif)
+![ejercicio2](./img/Ejercicio8.gif)
 
 
 ### **Tercer ejercicio**
