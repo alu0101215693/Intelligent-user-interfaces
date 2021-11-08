@@ -128,4 +128,4 @@ public class WebcamController : MonoBehaviour
 
 El funcionamiento de la funcionalidad desarollada puede verse en el siguiente vídeo:
 
-[![Miniatura del vídeo](img/miniatura.PNG)](https://youtu.be/xYisqJESGj8)
+[![Miniatura del vídeo](./img/img4.PNG)](https://youtu.be/xYisqJESGj8)
