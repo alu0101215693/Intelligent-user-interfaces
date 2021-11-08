@@ -6,7 +6,7 @@
 
 ### **Primer ejercicio - Micrófono**
 
-Se ha implementado un script, incluido en el [repositorio](./src/MicrophoneController.cs), para la obtención de sonido desde el micrófono del ordenador. Este script fue asignado a un objeto Singleton destinado para el control de las reglas del juego, un GameObject al que hemos denominado `GameManager`. Para permitir un uso básico del micrófono, se implementó la siguiente funcionalidad en el script `MicrophoneController.cs` asociado a este:
+Se ha implementado un script, incluido en el [repositorio](./src/MicrophoneController.cs), para la obtención de sonido desde el micrófono del ordenador. Este script fue asignado a un objeto destinado para el control de las reglas del juego, un GameObject al que hemos denominado `GameManager`. Para permitir un uso básico del micrófono, se implementó la siguiente funcionalidad en el script `MicrophoneController.cs` asociado a este:
 
 ```csharp
 public class MicrophoneController : MonoBehaviour
